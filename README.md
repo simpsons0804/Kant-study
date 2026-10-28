@@ -13,3 +13,9 @@ git add -A
 # 커밋
 git commit -m "commit message..."
 ```
+
+```bash
+# 푸쉬 커멘드
+
+git push origin main
+```
